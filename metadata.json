@@ -1,0 +1,6 @@
+{
+  "name": "Fitzee",
+  "description": "Premium gym equipment, fitness accessories, and workout essentials designed to help you train smarter, stronger, and better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
