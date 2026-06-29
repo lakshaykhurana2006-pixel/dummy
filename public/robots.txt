@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fitzee.com/sitemap.xml
+Sitemap: https://fitzzee.com/sitemap.xml
